@@ -14,7 +14,7 @@ The purpose of this project is to create a personal page with the following func
 
 - Show date and time
 
-<img width="700" alt="Screen Shot 2022-04-08 at 9 42 15 PM" src="https://user-images.githubusercontent.com/46692136/163688653-2b9483a9-e27b-4100-8e8d-137eac52615a.png">
+<img width="650" alt="Screen Shot 2022-04-08 at 9 42 15 PM" src="https://user-images.githubusercontent.com/46692136/163688653-2b9483a9-e27b-4100-8e8d-137eac52615a.png">
 
 - Weather forecast for current location
 
