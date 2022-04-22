@@ -9,6 +9,16 @@ Momentum is an extension page that replaces the new tab with a personal dashboar
 
 This momentum project does not exactly clone the momentum extension as it is, so the UI does not match perfectly. Because this project is focus to show function. The project will provide a to-do list, a weather check of your current location, random photos, and random quotes. 
 
+## What I used
+- Javascript
+- HTML5
+- LocalStorage
+- AJAX
+- JSON
+- fetch
+- OpenWeather API
+- DOM
+
 ## Features
 The purpose of this project is to create a personal page with the following functions:
 
@@ -33,4 +43,4 @@ The purpose of this project is to create a personal page with the following func
 ![random](https://user-images.githubusercontent.com/46692136/163688628-80e64ef9-0c95-4ce2-b190-288a846a7f5b.gif)
 
 ## Try it
-- [Momentum Page Demo Link](https://wnsjunedud.github.io/momentum/) 
+- [Momentum Page Demo Link](https://wnsjunedud.github.io/Momentum-Project/momentum/) 
